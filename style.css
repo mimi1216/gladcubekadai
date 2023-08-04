@@ -1,0 +1,59 @@
+body {
+    background-image: url(https://www.beiz.jp/images_T/japanese-paper/japanese-paper_00147.jpg);
+    margin: 0px;
+  }
+
+h2,h3{
+    margin: 5px;
+}
+
+fieldset{
+    margin-left: 10px;
+    margin-right: 10px;
+}
+legend {
+    width: auto;
+    margin-left: auto;
+    margin-right: auto;
+}
+.footer{
+    text-align: center;
+}
+header {
+    display: flex;
+    width: 100%;
+    height: 100px;
+    background-color:#696969;
+    align-items: center;
+    justify-content: center;
+    opacity: 0.8;
+    margin-bottom: 20px;
+  }
+   
+  .title {
+    margin-bottom: 0px ;
+  }
+   
+  a{
+    text-decoration: none;
+    color: #000000;
+  }
+  .menu-item {
+    list-style: none;
+    display: inline-block;
+    padding: 8px 16px;
+    color: #FFFFFFFF;
+    
+  }
+  .menu-item:hover{
+    opacity: 0.4;
+    color: #FFFFFF;
+    text-decoration: none;
+  }
+  .ue{
+    text-align: center;
+  }
+  .nav ul{
+    justify-content: center;
+  }
+  
