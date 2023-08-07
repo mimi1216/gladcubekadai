@@ -2,3 +2,5 @@ Sitestのフロントエンドはveu.jsをメインに使い業務内容はお�
 sitestのバックエンドはtypescriptをメインでphpなども使っているサーバーはgoogle cloud platform DBはMYSQLを使っている
 SPAIAはveu.jsをメインでPHPとpythonを使っているAIの予想だったり
  https://developer.mozilla.org/ja/docs/Learn/HTML/Introduction_to_HTML/Getting_started#%E5%AE%9F%E4%BD%93%E5%8F%82%E7%85%A7_html_%E3%81%AB%E7%89%B9%E6%AE%8A%E6%96%87%E5%AD%97%E3%82%92%E5%90%AB%E3%82%81%E3%82%8B
+
+課題　サーバー　XAMPP
